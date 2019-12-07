@@ -1,0 +1,12 @@
+﻿  test.c
+j:\code\c_code\practice\practice\test.c(1076): warning C4033: “my_atoi”必须返回值
+j:\code\c_code\practice\practice\test.c(1100): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+j:\code\c_code\practice\practice\test.c(1105): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+j:\code\c_code\practice\practice\test.c(1470): warning C4090: “return”: 不同的“const”限定符
+j:\code\c_code\practice\practice\test.c(1493): warning C4047: “函数”:“char *”与“char *[20]”的间接级别不同
+j:\code\c_code\practice\practice\test.c(1493): warning C4024: “strcpy”: 形参和实参 1 的类型不同
+j:\code\c_code\practice\practice\test.c(1495): warning C4047: “函数”:“char *”与“char *[20]”的间接级别不同
+j:\code\c_code\practice\practice\test.c(1495): warning C4024: “strtok”: 形参和实参 1 的类型不同
+j:\code\c_code\practice\practice\test.c(1053): warning C4715: “my_pow_R”: 不是所有的控件路径都返回值
+j:\code\c_code\practice\practice\test.c(1106): warning C4715: “my_atoi”: 不是所有的控件路径都返回值
+  practice.vcxproj -> J:\code\C_code\practice\Debug\practice.exe
